@@ -1,0 +1,19 @@
+01 - Investigating Netflix Movies [Data Manipulation, Data Visualization] :-
+https://github.com/Eslam-shaban/Data-Science-Projects/blob/main/DataCamp%20Projects/Projects/01%20-%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/notebook.ipynb
+--------------------------------------------------------------------------------
+02 - The Android App Market on Google Play [Importing&Cleaning Data, Data Manipulation, Data Visualization] :-
+https://github.com/Eslam-shaban/Data-Science-Projects/blob/main/DataCamp%20Projects/Projects/02%20-%20The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb
+--------------------------------------------------------------------------------
+03 - The GitHub History of the Scala Language [Importing&Cleaning Data, Data Manipulation, Data Visualization]
+https://github.com/Eslam-shaban/Data-Science-Projects/blob/main/DataCamp%20Projects/Projects/03%20-%20The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb
+--------------------------------------------------------------------------------
+04 - A Visual History of Nobel Prize Winners [Importing&Cleaning Data, Data Manipulation, Data Visualization]
+https://github.com/Eslam-shaban/Data-Science-Projects/blob/main/DataCamp%20Projects/Projects/04%20-%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb
+--------------------------------------------------------------------------------
+06 - Predicting Credit Card Approvals [Machine Learning, Applied Finance, Importing&Cleaning Data, Data Visualization]
+https://github.com/Eslam-shaban/Data-Science-Projects/blob/main/DataCamp%20Projects/Projects/06%20-%20Predicting%20Credit%20Card%20Approvals/notebook.ipynb
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
